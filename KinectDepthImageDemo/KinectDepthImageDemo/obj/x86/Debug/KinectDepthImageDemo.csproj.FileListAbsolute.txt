@@ -1,0 +1,13 @@
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\MainWindow.baml
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\MainWindow.g.cs
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\App.g.cs
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\KinectDepthImageDemo_MarkupCompile.cache
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\KinectDepthImageDemo.g.resources
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\KinectDepthImageDemo.Properties.Resources.resources
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kinectwindows\Documents\Visual Studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\bin\Debug\KinectDepthImageDemo.exe
+C:\Users\kinectwindows\Documents\Visual Studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\bin\Debug\KinectDepthImageDemo.pdb
+C:\Users\kinectwindows\Documents\Visual Studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\KinectDepthImageDemo.exe
+C:\Users\kinectwindows\Documents\Visual Studio 2010\Projects\KinectDepthImageDemo\KinectDepthImageDemo\obj\x86\Debug\KinectDepthImageDemo.pdb

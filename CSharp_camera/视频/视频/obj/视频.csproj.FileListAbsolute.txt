@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\视频.Properties.Resources.resources
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\视频.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\视频.Camera.resources
+C:\Users\Administrator\Desktop\视频\视频\bin\Debug\视频.exe
+C:\Users\Administrator\Desktop\视频\视频\bin\Debug\视频.pdb
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\视频.exe
+C:\Users\Administrator\Desktop\视频\视频\obj\Debug\视频.pdb

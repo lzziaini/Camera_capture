@@ -1,0 +1,13 @@
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\bin\Debug\KinectDisplayImageViaBitmap.exe
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\bin\Debug\KinectDisplayImageViaBitmap.pdb
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\MainWindow.baml
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\MainWindow.g.cs
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\App.g.cs
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\KinectDisplayImageViaBitmap_MarkupCompile.cache
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\KinectDisplayImageViaBitmap.g.resources
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\KinectDisplayImageViaBitmap.Properties.Resources.resources
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\KinectDisplayImageViaBitmap.exe
+c:\users\kinectwindows\documents\visual studio 2010\Projects\KinectDisplayImageViaBitmap\KinectDisplayImageViaBitmap\obj\x86\Debug\KinectDisplayImageViaBitmap.pdb

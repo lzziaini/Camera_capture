@@ -1,0 +1,46 @@
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\myVideoCap.exe
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\myVideoCap.pdb
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.pdb
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Imaging.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Math.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Video.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\bin\Debug\AForge.Video.DirectShow.xml
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.csprojResolveAssemblyReference.cache
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Form1.resources
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Properties.Resources.resources
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.csproj.GenerateResource.Cache
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.exe
+G:\luokerock@outlook.com\programming\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.pdb
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.exe
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.pdb
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\myVideoCap.exe
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\myVideoCap.pdb
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.pdb
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Imaging.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Math.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Video.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.csprojResolveAssemblyReference.cache
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Form1.resources
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Properties.Resources.resources
+C:\Users\chy\Desktop\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.exe
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.pdb
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\myVideoCap.exe
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\myVideoCap.pdb
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.pdb
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Controls.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Imaging.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Video.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\bin\Debug\AForge.Video.DirectShow.xml
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Form1.resources
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\myVideoCap.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\myVideoCap\myVideoCap\obj\x86\Debug\GenerateResource.write.1.tlog
